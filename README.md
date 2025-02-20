@@ -64,3 +64,11 @@ This diagram represents the architecture of the detection lab, designed for moni
 ## **Conclusion**
 This lab provides hands-on experience in **threat detection, log analysis, and security monitoring**, helping to understand real-world attack patterns. 🚀  
 
+![{5947C6A7-D937-4750-8726-DA6277C9A299}](https://github.com/user-attachments/assets/aeabe213-120a-4a86-ab06-98859202fcfb)
+![{283510D9-B402-40CA-8172-2C9BCA652568}](https://github.com/user-attachments/assets/186643e4-b774-48ff-8565-e6182e4a172a)
+![{18FD8E76-0373-4587-A70E-1FAC19BF453E}](https://github.com/user-attachments/assets/571104ae-9798-46ae-9aa5-6257948187c2)
+![{A5E801CD-91AA-4039-BBB2-2B5DB1F68C51}](https://github.com/user-attachments/assets/7fb0fcad-deaf-4a52-8149-cc45166cf7ac)
+
+
+
+
