@@ -16,13 +16,13 @@ The Detection Lab project aims to establish a controlled environment for simulat
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
-## Steps
-Every screenshot should have some text explaining what the screenshot is about.
-Example below.
+
+
+
+## Network Architecture
+![Detection Lab Architecture](https://github.com/user-attachments/assets/cb92936d-2f70-432e-9fd6-cb7f65302eaa)
 
 *Ref 1: Network Diagram*
-
-![Network_Architecture](https://github.com/user-attachments/assets/cb92936d-2f70-432e-9fd6-cb7f65302eaa)
 
 This diagram represents the architecture of the detection lab, designed for monitoring and analyzing cyber threats.
 
@@ -30,4 +30,37 @@ This diagram represents the architecture of the detection lab, designed for moni
 - **Attacker VM (Kali Linux)**  initiates attacks on the Victime System (Windows) and Web/App Server (Ubuntu) to simulate real-world threats.
 - **IDS/IPS (Snort)** monitors network traffic for suspicious activity and sends alerts to the SIEM.
 - **Arrows** indicate the direction of attack and log flow between components.
-  
+
+
+
+## Steps
+
+#### 1. Install Oracle VirtualBox
+- Download from official site.
+![{BFF036C0-6E5D-4B82-8FC7-B6FC756A4F22}](https://github.com/user-attachments/assets/167e60f4-f0eb-4c9a-a7e6-c5f9cb102b17)
+
+  *Ref 2: Oracle VirtualBox Official Site*
+
+
+#### 2. Deploy Virtual Machines  
+- Download Kali Linux, Windows, and Ubuntu ISO files fromm the official site.
+- Deploy Kali Linux, Windows, and Ubuntu on the Oracle VirtualBox.  
+
+#### 3. Configure Logging & Monitoring  
+- Send logs from all machines to SIEM.  
+
+#### 4. Simulate Attacks  
+- Use **Nmap, Metasploit**, and other tools.  
+
+#### 5. Analyze Alerts in SIEM  
+- Investigate security incidents.  
+
+### **Screenshots**
+📸 *Ref 1: Network Diagram*  
+📸 *Ref 2: SIEM Dashboard*  
+
+---
+
+## **Conclusion**
+This lab provides hands-on experience in **threat detection, log analysis, and security monitoring**, helping to understand real-world attack patterns. 🚀  
+
