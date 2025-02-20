@@ -69,6 +69,7 @@ This lab provides hands-on experience in **threat detection, log analysis, and s
 ![{18FD8E76-0373-4587-A70E-1FAC19BF453E}](https://github.com/user-attachments/assets/571104ae-9798-46ae-9aa5-6257948187c2)
 ![{A5E801CD-91AA-4039-BBB2-2B5DB1F68C51}](https://github.com/user-attachments/assets/7fb0fcad-deaf-4a52-8149-cc45166cf7ac)
 
+![{0C9BD08A-D0DA-4312-808C-DCCC5E83DEA3}](https://github.com/user-attachments/assets/24539058-b68b-44b8-816c-c9ea8189461d)
 
 
 
