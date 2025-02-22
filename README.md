@@ -61,6 +61,7 @@ This diagram represents the architecture of the detection lab, designed for moni
 ![{09385D93-5225-4EA3-B309-B7A932D60373}](https://github.com/user-attachments/assets/ce2ab19f-cb89-44f4-9dcb-8b8b5f513718)
 ![{138EFE10-4A54-433A-9CFB-E6DEE2658743}](https://github.com/user-attachments/assets/f17113e0-57eb-4612-b39a-c05ec1f36a77)
 ![{C43C36D4-D976-4B77-ACE1-7326EE7E334F}](https://github.com/user-attachments/assets/7641a363-bdb1-42c5-8224-624bae670413)
+![{8BBB1AD7-74F8-4B7F-A30F-4930BD204470}](https://github.com/user-attachments/assets/10ef2e83-73e6-4895-8796-3e9e863513b9)
 
 
 #### 3. Creating a Base Install Image
@@ -71,6 +72,26 @@ This diagram represents the architecture of the detection lab, designed for moni
   ![{A1EBB550-D8D7-44B1-AFB4-6AB20D184DA2}](https://github.com/user-attachments/assets/9904dbaa-43c7-421e-93ef-387ebb445692)
 
 ![{C3737C42-26EF-4FA6-8C61-0A9D150F968B}](https://github.com/user-attachments/assets/807301e7-5601-4cda-be75-24f116d56d16)
+
+#### 4. SIEM 
+![{26C843B0-0A9A-48B3-BE2B-0F7026838D99}](https://github.com/user-attachments/assets/56e5b825-ffab-42ce-a8ff-bccff74626b9)
+![{3B5133AC-ABFC-43A7-BCB6-8C4864EED8F2}](https://github.com/user-attachments/assets/235f8557-5772-4899-abe4-9f14c538be2d)
+
+![{60065FD5-5A8F-4022-9A41-0164E9E53F09}](https://github.com/user-attachments/assets/b941a2c9-307a-477c-9102-adea7acefcf6)
+![{9705F26D-B726-4E98-A7B5-A1907507CEA2}](https://github.com/user-attachments/assets/5df97897-88a6-4234-86b4-b9194e368b77)
+![{81A4B74D-7DF7-462E-841B-99E45D08F6A8}](https://github.com/user-attachments/assets/a7662a09-da0b-4db6-aca0-2f74c43b426e)
+![{B1CECD6A-21EB-4232-9547-32A4B00FEFF8}](https://github.com/user-attachments/assets/750ed603-8f42-42eb-a33c-4dc3de87b33b)
+
+snort
+![{6C3CBA13-EB39-4B0D-B24B-812DDFF48DC2}](https://github.com/user-attachments/assets/52b224b6-bb28-4709-b455-53a2f0b5a58b)
+
+![{FD3DA695-4D86-46DC-B4E9-73C7E5D0F283}](https://github.com/user-attachments/assets/2c3966ba-9c68-44e2-a0b3-33e1f09c5c87)
+![{695A9D11-E96D-4E28-AEAB-77716A285CA5}](https://github.com/user-attachments/assets/bbe32ece-bdc6-4cb1-831f-6bc8b7f8f1dd)
+![{19B14FB9-4679-4E8D-82D4-479D0395AD3D}](https://github.com/user-attachments/assets/3b21ec39-9ab9-4d7d-bb2e-0e50335c0f0f)
+![{A8200C74-4437-4DF3-A1AD-7B65EA69ACB8}](https://github.com/user-attachments/assets/9bdb9f3e-077e-4231-a387-965c709967a1)
+![{F6DAF20C-60CC-41AD-B0E3-2A97DAE97D9E}](https://github.com/user-attachments/assets/da439797-755f-40b0-8f80-1eff9337aae3)
+update ipvbar
+
 
 
 #### 4. Configure Logging & Monitoring  
